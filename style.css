@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #111;
+}
+
+h1 {
+    text-align: center;
+    font-size: 10vw;
+    font-weight: 900;
+    text-transform: uppercase;
+    height: 13vw;
+    width: 85vw;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+h1 span {
+    display: inline-block;
+}
+
+h1 span:nth-child(1) {
+    color: aqua;
+}
+
+h1 span:nth-child(2) {
+    color: #00ff40;
+}
+
+h1 span:nth-child(4) {
+    color: #6600ff;
+}
+
+h1 span:nth-child(5) {
+    color: #ff5e00;
+}
+
+h1 span:nth-child(6) {
+    color: #fd8861;
+}
+
+h1 span:nth-child(7) {
+    color: #d000ff;
+}
+
+h1 span:nth-child(8) {
+    color: #7aede5;
+}
+
+h1 span:nth-child(9) {
+    color: #bf1313;
+}
+
+h1 span:nth-child(10) {
+    color: #00ffa2;
+}
+
+h1 span:nth-child(11) {
+    color: #ff7dc5cd;
+}
